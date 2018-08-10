@@ -1,0 +1,16 @@
+PODS:
+  - NJMediator_NJSisVideoList (0.1.0)
+
+DEPENDENCIES:
+  - NJMediator_NJSisVideoList (from `../`)
+
+EXTERNAL SOURCES:
+  NJMediator_NJSisVideoList:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NJMediator_NJSisVideoList: 08b8e2485c7284e3dd9b01d3e8a6a433bd953db0
+
+PODFILE CHECKSUM: 4677977761cbb4e50badf05df4274796f9703929
+
+COCOAPODS: 1.5.3
