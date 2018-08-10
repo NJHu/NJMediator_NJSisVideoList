@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NJMediator_NJSisVideoList_Example' do
+  pod 'NJMediator_NJSisVideoList', :path => '../'
+
+  target 'NJMediator_NJSisVideoList_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
